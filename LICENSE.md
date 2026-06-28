@@ -1,4 +1,4 @@
-# 
+# 原生 Adobe Premiere Pro 插件 Mac OS版 | 独家 Adobe Premiere Pro 插件 PC Windows版。集成 音频修剪 和 VST支持，跨平台性能最大化。
 
 
 
